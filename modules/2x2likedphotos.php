@@ -17,7 +17,7 @@
 				get: 'liked',
 				limit: 4,
 				accessToken: '806978688.467ede5.f077f17b8f7a47c8a6914316b0822f62', //Replace with your access token
-				template: '<img style="width:129px; margin-left:3px;" src="{{image}}"/>',
+				template: '<a href="{{link}}"><img style="width:129px; margin-left:3px;" src="{{image}}"/></a>',
 				resolution: 'standard_resolution'
 			});
 			feed2.run();
