@@ -16,7 +16,7 @@
 				target: 'instafeed2',
 				get: 'liked',
 				limit: 4,
-				accessToken: '806978688.467ede5.f077f17b8f7a47c8a6914316b0822f62', //Replace with your access token
+				accessToken: '1692331993.1677ed0.677230012c24401d8aefb67e8d6dd4fc', //Replace with your access token
 				template: '<a href="{{link}}"><img style="width:129px; margin-left:3px;" src="{{image}}"/></a>',
 				resolution: 'standard_resolution'
 			});
